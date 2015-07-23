@@ -1,0 +1,6 @@
+{
+    "repos": "https://github.com/seajs/seajs-style",
+    "version": "v1.0.0",
+    "name": "importStyle",
+    "main": "importStyle.js"
+}
